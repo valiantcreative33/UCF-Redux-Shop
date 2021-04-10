@@ -13,7 +13,7 @@ UCF-Redux-Shop is a MERN stack eCommerce shop built with React-Redux and Stripe 
 * [Contribution](#Contribution)
 
 ## Installation
-No installation required for the UCF Redux Shop. Simply visit the live application, [here](/)!
+No installation required for the UCF Redux Shop. Simply visit the live application, [here](https://ucf-redux-shop.herokuapp.com/)!
 
 ## Built With
 * React
